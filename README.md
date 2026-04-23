@@ -17,3 +17,12 @@ I audited my personal laptop.
 - Windows Security
 - System Update Page
 - Browser setting
+
+## Files in this Repository
+- checklist.md
+- findings-report.md
+- recommendations.md
+- screenshots/
+
+## Conclusion
+This project helped me to understand how to identify basic cybersecurity risks and apply simple security improvements.
